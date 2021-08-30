@@ -1,4 +1,4 @@
-
+[![View 942_Bar_Truss on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/95943-942_bar_truss)
 
 All diminsions of the truss are in "ft" and appropriate conversions have been done to convert it to "m".
 The final weight of the truss will come in "kN".
